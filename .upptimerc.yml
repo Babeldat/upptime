@@ -11,13 +11,12 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+assignees:
+  - Tlodder
 
 status-website:
+  publish: true
+  apiBaseUrl: ${{ secrets.GH_PAT }}
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
@@ -26,8 +25,12 @@ status-website:
   name: Babeldat uptime
   introTitle: "**Babeldat uptime**"
   introMessage: https://babeldat.com/
+  theme: ocean
   navbar:
     - title: Status
       href: /
+    - title: Babeldat
+      href: https://babeldat.com/
+    
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
