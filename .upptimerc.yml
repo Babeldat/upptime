@@ -5,22 +5,31 @@ repo: upptime # The name of this repository
 sites:
   - name: L1
     url: https://l1.babeldat.com
+    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   - name: L2
     url: https://l2.babeldat.com
+    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   - name: L3
     url: https://l3.babeldat.com
+    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   - name: L4
     url: https://l4.babeldat.com
+    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   - name: L5
     url: https://l5.babeldat.com
+    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   - name: L6
     url: https://l6.babeldat.com
+    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   # - name: L7
   #   url: https://l7.babeldat.com
+  #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   - name: L8
     url: https://l8.babeldat.com
+    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   - name: Sandbox
     url: https://sb.babeldat.com
+    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
 assignees:
   - Tlodder
 
@@ -34,7 +43,7 @@ status-website:
   name: uptime
   introTitle: "**Babeldat uptime**"
   introMessage: https://babeldat.com/
-  themeUrl: https://raw.githubusercontent.com/Babeldat/upptime/refs/heads/master/assets/babeldat.css
+  themeUrl: https://babeldat.github.io/upptime/babeldat.css
   css: "footer { visibility: hidden; }"
   navbar:
     - title: Status
