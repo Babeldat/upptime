@@ -15,8 +15,8 @@ sites:
     url: https://l5.babeldat.com
   - name: L6
     url: https://l6.babeldat.com
-  - name: L7
-    url: https://l7.babeldat.com
+  # - name: L7
+  #   url: https://l7.babeldat.com
   - name: L8
     url: https://l8.babeldat.com
   - name: Sandbox
@@ -34,7 +34,8 @@ status-website:
   name: uptime
   introTitle: "**Babeldat uptime**"
   introMessage: https://babeldat.com/
-  themeUrl: https://github.com/Babeldat/upptime/blob/master/assets/babeldat.css
+  themeUrl: https://raw.githubusercontent.com/Babeldat/upptime/refs/heads/master/assets/babeldat.css
+  css: "footer { visibility: hidden; }"
   navbar:
     - title: Status
       href: /
