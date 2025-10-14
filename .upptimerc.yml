@@ -3,14 +3,24 @@ owner: Babeldat # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: L1
+    url: https://l1.babeldat.com
+  - name: L2
+    url: https://l2.babeldat.com
+  - name: L3
+    url: https://l3.babeldat.com
+  - name: L4
+    url: https://l4.babeldat.com
+  - name: L5
+    url: https://l5.babeldat.com
+  - name: L6
+    url: https://l6.babeldat.com
+  - name: L7
+    url: https://l7.babeldat.com
+  - name: L8
+    url: https://l8.babeldat.com
+  - name: Sandbox
+    url: https://sb.babeldat.com
 assignees:
   - Tlodder
 
@@ -20,11 +30,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Babeldat uptime
+  logoUrl: https://babeldat.com/wp-content/uploads/2024/06/babeldat_logo.webp
+  name: uptime
   introTitle: "**Babeldat uptime**"
   introMessage: https://babeldat.com/
-  theme: ocean
+  themeUrl: https://github.com/Babeldat/upptime/blob/master/assets/babeldat.css
   navbar:
     - title: Status
       href: /
@@ -33,3 +43,11 @@ status-website:
     
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
