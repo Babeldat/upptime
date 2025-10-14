@@ -1,7 +1,42 @@
 :root {
-  --body-background-color: #f0ffff;
-  --body-text-color: #000000;
-  --card-background-color: #0008C1;
-  --nav-background-color: #0008C1;
-  --nav-border-bottom-color: #F74A00;
+  /* General page colors */
+  --body-background-color: #ffffff; /* white page background */
+  --body-text-color: #050732; /* dark text for readability (Dark) */
+
+  /* Card colors */
+  --card-background-color: #F0F0FE; /* light card background (A Pinch of Blue) */
+  --card-border-color: #0008C1; /* primary border (Ocean Blue) */
+
+  /* Navigation bar */
+  --nav-background-color: #00045C; /* dark blue nav background (In the Depths) */
+  --nav-border-bottom-color: #0008C1; /* primary border (Ocean Blue) */
+  --nav-current-border-bottom-color: #F74A00; /* highlight current nav (Orange) */
+
+  /* Status indicators */
+  --down-border-left-color: #C10000; /* negative (Error) */
+  --down-background-color: #F74A00; /* secondary (Orange) for emphasis */
+  --degraded-border-left-color: #F74A00; /* secondary (Orange) */
+  --up-border-left-color: #00C164; /* positive (Correct) */
+
+  /* Tags */
+  --tag-color: #F0F0FE; /* light-blue text on tags */
+  --tag-up-background-color: #00C164; /* positive */
+  --tag-down-background-color: #C10000; /* negative */
+  --tag-degraded-background-color: #F74A00; /* secondary/orange */
+
+  /* Changes / highlights */
+  --change-background-color: #F74A00; /* secondary/orange highlight */
+
+  /* Buttons */
+  --error-button-border-color: #0008C1; /* Ocean Blue */
+  --error-button-background-color: #3867d6; /* leave as slightly muted blue for contrast */
+  --error-button-color: #ffffff; /* text on buttons remains white */
+
+  --submit-button-border-color: #0008C1; /* Ocean Blue */
+  --submit-button-background-color: #0008C1; /* primary */
+  --submit-button-color: #ffffff; /* white text */
+
+  /* Graphs */
+  --graph-opacity: 1;
+  --graph-filter: none;
 }
