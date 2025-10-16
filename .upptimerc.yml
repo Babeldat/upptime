@@ -37,8 +37,8 @@ status-website:
   publish: true
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: uptime.babeldat.com
+  # baseUrl: /upptime
   logoUrl: https://babeldat.com/wp-content/uploads/2024/06/babeldat_logo.webp
   name: uptime
   introTitle: "**Babeldat uptime**"
