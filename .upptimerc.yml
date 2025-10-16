@@ -43,8 +43,8 @@ status-website:
   name: uptime
   introTitle: "**Babeldat uptime**"
   introMessage: https://babeldat.com/
-  themeUrl: https://babeldat.github.io/upptime/babeldat.css
-  css: "footer { visibility: hidden;  } nav { color: white; } img[src=\"https://babeldat.com/wp-content/uploads/2024/06/babeldat_logo.webp\"] { max-height: 25px; }"
+  themeUrl: https://uptime.babeldat.com/babeldat.css
+  css: "footer { visibility: hidden;  } img[src=\"https://babeldat.com/wp-content/uploads/2024/06/babeldat_logo.webp\"] { max-height: 25px; }"
   navbar:
     - title: Status
       href: /
