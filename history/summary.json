@@ -40,9 +40,9 @@
     "url": "https://l3.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -52,6 +52,7 @@
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2025-10-30": 0,
       "2025-10-23": 21
     }
   },
