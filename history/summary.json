@@ -60,9 +60,9 @@
     "url": "https://l4.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 1341,
     "timeMonth": 1041,
     "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-11": 0
+    }
   },
   {
     "name": "L5",
@@ -97,19 +99,17 @@
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l6",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 681,
     "timeDay": 711,
     "timeWeek": 686,
     "timeMonth": 681,
     "timeYear": 681,
-    "dailyMinutesDown": {
-      "2025-11-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "L8",
