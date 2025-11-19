@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1040,
-    "timeDay": 1057,
-    "timeWeek": 985,
-    "timeMonth": 1083,
-    "timeYear": 1040,
+    "time": 1041,
+    "timeDay": 1058,
+    "timeWeek": 960,
+    "timeMonth": 1085,
+    "timeYear": 1041,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://l2.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1059,
-    "timeDay": 1156,
-    "timeWeek": 1183,
-    "timeMonth": 1130,
-    "timeYear": 1059,
-    "dailyMinutesDown": {}
+    "time": 1060,
+    "timeDay": 1099,
+    "timeWeek": 1162,
+    "timeMonth": 1145,
+    "timeYear": 1060,
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
   },
   {
     "name": "L3",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 740,
-    "timeDay": 693,
-    "timeWeek": 700,
-    "timeMonth": 800,
-    "timeYear": 740,
+    "time": 737,
+    "timeDay": 599,
+    "timeWeek": 644,
+    "timeMonth": 801,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2025-10-23": 21
     }
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 977,
-    "timeDay": 620,
-    "timeWeek": 709,
-    "timeMonth": 987,
-    "timeYear": 977,
+    "time": 969,
+    "timeDay": 597,
+    "timeWeek": 674,
+    "timeMonth": 986,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2025-11-11": 21
     }
@@ -86,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 683,
-    "timeWeek": 703,
-    "timeMonth": 682,
-    "timeYear": 669,
+    "time": 668,
+    "timeDay": 654,
+    "timeWeek": 666,
+    "timeMonth": 684,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 688,
-    "timeWeek": 737,
-    "timeMonth": 715,
-    "timeYear": 690,
+    "time": 689,
+    "timeDay": 628,
+    "timeWeek": 710,
+    "timeMonth": 716,
+    "timeYear": 689,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 592,
-    "timeWeek": 713,
-    "timeMonth": 817,
-    "timeYear": 757,
+    "time": 753,
+    "timeDay": 572,
+    "timeWeek": 644,
+    "timeMonth": 679,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -141,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1014,
-    "timeDay": 984,
-    "timeWeek": 1045,
-    "timeMonth": 1031,
+    "timeDay": 1030,
+    "timeWeek": 1030,
+    "timeMonth": 1032,
     "timeYear": 1014,
     "dailyMinutesDown": {}
   }
