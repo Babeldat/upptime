@@ -64,9 +64,9 @@
     "url": "https://l4.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -76,6 +76,7 @@
     "timeMonth": 978,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2025-11-26": 0,
       "2025-11-11": 21
     }
   },
