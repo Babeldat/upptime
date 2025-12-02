@@ -120,17 +120,17 @@
     "url": "https://sb.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 1091,
-    "timeWeek": 1078,
-    "timeMonth": 1046,
-    "timeYear": 1032,
+    "time": 1036,
+    "timeDay": 1164,
+    "timeWeek": 1104,
+    "timeMonth": 1052,
+    "timeYear": 1036,
     "dailyMinutesDown": {}
   }
 ]
