@@ -18,9 +18,9 @@ sites:
   - name: L5
     url: https://l5.babeldat.com
     icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
-  - name: L6
-    url: https://l6.babeldat.com
-    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
+  # - name: L6
+  #   url: https://l6.babeldat.com
+  #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   # - name: L7
   #   url: https://l7.babeldat.com
   #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
