@@ -6,7 +6,7 @@
     "slug": "l1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1123,
     "timeMonth": 1092,
     "timeYear": 1063,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-04": 0
+    }
   },
   {
     "name": "L2",
@@ -129,7 +131,7 @@
     "time": 1042,
     "timeDay": 1176,
     "timeWeek": 1132,
-    "timeMonth": 1062,
+    "timeMonth": 1068,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2025-12-02": 15
