@@ -84,19 +84,19 @@
     "url": "https://l5.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l5",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 663,
-    "timeWeek": 695,
-    "timeMonth": 710,
-    "timeYear": 686,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.89%",
+    "time": 684,
+    "timeDay": 625,
+    "timeWeek": 680,
+    "timeMonth": 706,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-12-10": 0
+      "2025-12-10": 89
     }
   },
   {
