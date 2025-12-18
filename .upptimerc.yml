@@ -12,12 +12,12 @@ sites:
   - name: L3
     url: https://l3.babeldat.com
     icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
-  - name: L4
-    url: https://l4.babeldat.com
-    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
-  - name: L5
-    url: https://l5.babeldat.com
-    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
+  # - name: L4
+  #   url: https://l4.babeldat.com
+  #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
+  # - name: L5
+  #   url: https://l5.babeldat.com
+  #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   # - name: L6
   #   url: https://l6.babeldat.com
   #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
