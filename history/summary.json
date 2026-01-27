@@ -67,9 +67,9 @@
     "url": "https://l8.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l8",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.82%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -79,6 +79,7 @@
     "timeMonth": 725,
     "timeYear": 745,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2026-01-26": 17
     }
   },
