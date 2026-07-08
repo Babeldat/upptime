@@ -91,17 +91,17 @@
     "url": "https://sb.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "sandbox",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "78.00%",
-    "uptimeWeek": "91.97%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "99.62%",
-    "time": 1128,
-    "timeDay": 941,
-    "timeWeek": 1032,
-    "timeMonth": 992,
-    "timeYear": 1128,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "74.06%",
+    "uptimeWeek": "91.41%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "99.61%",
+    "time": 1126,
+    "timeDay": 927,
+    "timeWeek": 1025,
+    "timeMonth": 989,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2025-12-02": 15,
       "2025-12-05": 23,
@@ -109,7 +109,7 @@
       "2026-06-26": 304,
       "2026-06-25": 268,
       "2026-07-05": 493,
-      "2026-07-08": 317
+      "2026-07-08": 374
     }
   }
 ]
