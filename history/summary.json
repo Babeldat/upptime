@@ -25,22 +25,22 @@
     "url": "https://l2.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1063,
-    "timeDay": 638,
-    "timeWeek": 651,
-    "timeMonth": 637,
-    "timeYear": 1063,
+    "time": 1168,
+    "timeDay": 10649,
+    "timeWeek": 3152,
+    "timeMonth": 1263,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-11-20": 13,
       "2025-11-19": 7,
       "2026-01-10": 19,
-      "2026-08-20": 0
+      "2026-08-20": 14
     }
   },
   {
