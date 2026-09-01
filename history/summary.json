@@ -75,21 +75,21 @@
     "url": "https://l8.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l8",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 745,
-    "timeDay": 613,
-    "timeWeek": 700,
-    "timeMonth": 851,
-    "timeYear": 745,
+    "time": 754,
+    "timeDay": 1214,
+    "timeWeek": 891,
+    "timeMonth": 900,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2026-01-26": 17,
       "2026-01-27": 21,
-      "2026-09-01": 0
+      "2026-09-01": 8
     }
   },
   {
