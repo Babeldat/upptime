@@ -49,17 +49,17 @@
     "url": "https://l3.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l3",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "92.40%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "99.69%",
-    "time": 873,
-    "timeDay": 651,
-    "timeWeek": 701,
-    "timeMonth": 805,
-    "timeYear": 873,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "92.32%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "99.68%",
+    "time": 872,
+    "timeDay": 597,
+    "timeWeek": 682,
+    "timeMonth": 795,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2025-10-23": 21,
       "2025-11-22": 17,
@@ -67,7 +67,7 @@
       "2026-06-25": 173,
       "2026-08-29": 551,
       "2026-08-28": 215,
-      "2026-09-01": 0
+      "2026-09-01": 8
     }
   },
   {
@@ -75,20 +75,21 @@
     "url": "https://l8.babeldat.com",
     "icon": "https://babeldat.com/wp-content/uploads/2024/06/favicon.svg",
     "slug": "l8",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 746,
-    "timeDay": 680,
-    "timeWeek": 722,
-    "timeMonth": 861,
-    "timeYear": 746,
+    "time": 745,
+    "timeDay": 613,
+    "timeWeek": 700,
+    "timeMonth": 851,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2026-01-26": 17,
-      "2026-01-27": 21
+      "2026-01-27": 21,
+      "2026-09-01": 0
     }
   },
   {
