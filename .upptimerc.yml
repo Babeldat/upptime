@@ -9,9 +9,9 @@ sites:
   - name: L2
     url: https://l2.babeldat.com
     icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
-  - name: L3
-    url: https://l3.babeldat.com
-    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
+  # - name: L3
+  #   url: https://l3.babeldat.com
+  #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   # - name: L4
   #   url: https://l4.babeldat.com
   #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
@@ -24,9 +24,9 @@ sites:
   # - name: L7
   #   url: https://l7.babeldat.com
   #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
-  - name: L8
-    url: https://l8.babeldat.com
-    icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
+  # - name: L8
+  #   url: https://l8.babeldat.com
+  #   icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
   - name: Sandbox
     url: https://sb.babeldat.com
     icon: https://babeldat.com/wp-content/uploads/2024/06/favicon.svg
